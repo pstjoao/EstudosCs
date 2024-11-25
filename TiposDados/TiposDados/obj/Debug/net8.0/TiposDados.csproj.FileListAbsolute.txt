@@ -1,0 +1,14 @@
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.exe
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.deps.json
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.runtimeconfig.json
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.dll
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\bin\Debug\net8.0\TiposDados.pdb
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.dll
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\refint\TiposDados.dll
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.pdb
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\TiposDados.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\TiposDados\TiposDados\obj\Debug\net8.0\ref\TiposDados.dll
