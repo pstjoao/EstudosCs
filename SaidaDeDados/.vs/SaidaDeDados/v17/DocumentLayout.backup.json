@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCs\\SaidaDeDados\\",
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\SaidaDeDados\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F359D167-78C8-401C-A6DA-24BFBE4D9971}|SaidaDeDados\\SaidaDeDados.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscs\\saidadedados\\saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F359D167-78C8-401C-A6DA-24BFBE4D9971}|SaidaDeDados\\SaidaDeDados.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\saidadedados\\saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F359D167-78C8-401C-A6DA-24BFBE4D9971}|SaidaDeDados\\SaidaDeDados.csproj|solutionrelative:saidadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCs\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\SaidaDeDados\\SaidaDeDados\\Program.cs",
               "RelativeDocumentMoniker": "SaidaDeDados\\Program.cs",
-              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCs\\SaidaDeDados\\SaidaDeDados\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\SaidaDeDados\\SaidaDeDados\\Program.cs",
               "RelativeToolTip": "SaidaDeDados\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T23:40:40.596Z",
+              "WhenOpened": "2024-11-26T23:49:10.721Z",
               "EditorCaption": ""
             }
           ]

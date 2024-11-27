@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\bin\Debug\net8.0\SaidaDeDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\refint\SaidaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\SaidaDeDados.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SaidaDeDados\SaidaDeDados\obj\Debug\net8.0\ref\SaidaDeDados.dll
