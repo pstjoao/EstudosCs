@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\bin\Debug\net8.0\ExercicioSaidaDeDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\refint\ExercicioSaidaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ExercicioSaidaDeDados.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioSaidaDeDados\ExercicioSaidaDeDados\obj\Debug\net8.0\ref\ExercicioSaidaDeDados.dll
