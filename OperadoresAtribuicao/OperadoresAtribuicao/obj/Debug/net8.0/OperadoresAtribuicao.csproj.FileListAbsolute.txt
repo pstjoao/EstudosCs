@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\bin\Debug\net8.0\OperadoresAtribuicao.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\refint\OperadoresAtribuicao.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\OperadoresAtribuicao.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\OperadoresAtribuicao\OperadoresAtribuicao\obj\Debug\net8.0\ref\OperadoresAtribuicao.dll
