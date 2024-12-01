@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\bin\Debug\net8.0\ConversaoCasting.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\refint\ConversaoCasting.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ConversaoCasting.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ConversaoCasting\ConversaoCasting\obj\Debug\net8.0\ref\ConversaoCasting.dll
