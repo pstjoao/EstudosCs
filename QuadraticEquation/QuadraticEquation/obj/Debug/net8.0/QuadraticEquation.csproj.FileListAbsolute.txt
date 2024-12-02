@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\refint\QuadraticEquation.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\QuadraticEquation\QuadraticEquation\obj\Debug\net8.0\ref\QuadraticEquation.dll
