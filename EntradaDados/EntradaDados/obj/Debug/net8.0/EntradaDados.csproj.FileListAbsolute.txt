@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\bin\Debug\net8.0\EntradaDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\refint\EntradaDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\EntradaDados.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EntradaDados\EntradaDados\obj\Debug\net8.0\ref\EntradaDados.dll
