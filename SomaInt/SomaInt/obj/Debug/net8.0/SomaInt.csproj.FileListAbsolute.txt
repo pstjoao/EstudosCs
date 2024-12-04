@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\bin\Debug\net8.0\SomaInt.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\bin\Debug\net8.0\SomaInt.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\bin\Debug\net8.0\SomaInt.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\bin\Debug\net8.0\SomaInt.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\bin\Debug\net8.0\SomaInt.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\refint\SomaInt.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\SomaInt.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\SomaInt\SomaInt\obj\Debug\net8.0\ref\SomaInt.dll
