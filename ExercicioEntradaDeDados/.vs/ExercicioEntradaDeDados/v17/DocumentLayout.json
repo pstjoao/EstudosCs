@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioEntradaDeDados\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14647845-2907-4E9C-963F-803AE19EBDF7}|ExercicioEntradaDeDados\\ExercicioEntradaDeDados.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exercicioentradadedados\\exercicioentradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14647845-2907-4E9C-963F-803AE19EBDF7}|ExercicioEntradaDeDados\\ExercicioEntradaDeDados.csproj|solutionrelative:exercicioentradadedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioEntradaDeDados\\ExercicioEntradaDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioEntradaDeDados\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioEntradaDeDados\\ExercicioEntradaDeDados\\Program.cs",
+              "RelativeToolTip": "ExercicioEntradaDeDados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:47:32.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

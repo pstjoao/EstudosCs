@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net8.0\ExercicioEntradaDeDados.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net8.0\ExercicioEntradaDeDados.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net8.0\ExercicioEntradaDeDados.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net8.0\ExercicioEntradaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\bin\Debug\net8.0\ExercicioEntradaDeDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\refint\ExercicioEntradaDeDados.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ExercicioEntradaDeDados.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioEntradaDeDados\ExercicioEntradaDeDados\obj\Debug\net8.0\ref\ExercicioEntradaDeDados.dll
