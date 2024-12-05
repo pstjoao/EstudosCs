@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\bin\Debug\net8.0\AreaCirculo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\refint\AreaCirculo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\AreaCirculo.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\AreaCirculo\AreaCirculo\obj\Debug\net8.0\ref\AreaCirculo.dll
