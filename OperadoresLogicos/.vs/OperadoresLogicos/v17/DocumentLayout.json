@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\OperadoresLogicos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE9BFA0-43CC-464D-95FA-25CDB8AFAA4F}|OperadoresLogicos\\OperadoresLogicos.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\operadoreslogicos\\operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE9BFA0-43CC-464D-95FA-25CDB8AFAA4F}|OperadoresLogicos\\OperadoresLogicos.csproj|solutionrelative:operadoreslogicos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\OperadoresLogicos\\OperadoresLogicos\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresLogicos\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\OperadoresLogicos\\OperadoresLogicos\\Program.cs",
+              "RelativeToolTip": "OperadoresLogicos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:59:04.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
