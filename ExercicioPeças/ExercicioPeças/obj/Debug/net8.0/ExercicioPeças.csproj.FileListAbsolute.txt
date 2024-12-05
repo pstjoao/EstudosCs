@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\bin\Debug\net8.0\ExercicioPeças.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\bin\Debug\net8.0\ExercicioPeças.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\bin\Debug\net8.0\ExercicioPeças.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\bin\Debug\net8.0\ExercicioPeças.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\bin\Debug\net8.0\ExercicioPeças.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\refint\ExercicioPeças.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ExercicioPeças.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioPeças\ExercicioPeças\obj\Debug\net8.0\ref\ExercicioPeças.dll
