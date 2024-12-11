@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\bin\Debug\net8.0\EstruturaCondicional.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\refint\EstruturaCondicional.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\EstruturaCondicional.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\EstruturaCondicional\EstruturaCondicional\obj\Debug\net8.0\ref\EstruturaCondicional.dll
