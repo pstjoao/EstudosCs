@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\bin\Debug\net8.0\Exifelse05.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\bin\Debug\net8.0\Exifelse05.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\bin\Debug\net8.0\Exifelse05.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\bin\Debug\net8.0\Exifelse05.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\bin\Debug\net8.0\Exifelse05.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\refint\Exifelse05.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\Exifelse05.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exifelse05\Exifelse05\obj\Debug\net8.0\ref\Exifelse05.dll
