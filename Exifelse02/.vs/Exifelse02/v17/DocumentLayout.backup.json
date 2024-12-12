@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exifelse02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C61FDAA4-9BF4-4100-B141-BA36429F39F1}|Exifelse02\\Exifelse02.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exifelse02\\exifelse02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C61FDAA4-9BF4-4100-B141-BA36429F39F1}|Exifelse02\\Exifelse02.csproj|solutionrelative:exifelse02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exifelse02\\Exifelse02\\Program.cs",
+              "RelativeDocumentMoniker": "Exifelse02\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exifelse02\\Exifelse02\\Program.cs",
+              "RelativeToolTip": "Exifelse02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:12:00.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
