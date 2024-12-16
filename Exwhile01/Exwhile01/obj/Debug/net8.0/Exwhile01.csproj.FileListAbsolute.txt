@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\bin\Debug\net8.0\Exwhile01.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\bin\Debug\net8.0\Exwhile01.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\bin\Debug\net8.0\Exwhile01.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\bin\Debug\net8.0\Exwhile01.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\bin\Debug\net8.0\Exwhile01.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\refint\Exwhile01.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\Exwhile01.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exwhile01\Exwhile01\obj\Debug\net8.0\ref\Exwhile01.dll
