@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exfor07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{287E4E4D-C245-4297-812D-96373F011EB3}|Exfor07\\Exfor07.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exfor07\\exfor07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{287E4E4D-C245-4297-812D-96373F011EB3}|Exfor07\\Exfor07.csproj|solutionrelative:exfor07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exfor07\\Exfor07\\Program.cs",
+              "RelativeDocumentMoniker": "Exfor07\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exfor07\\Exfor07\\Program.cs",
+              "RelativeToolTip": "Exfor07\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T13:09:23.169Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
