@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\bin\Debug\net8.0\Exfor04.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\bin\Debug\net8.0\Exfor04.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\bin\Debug\net8.0\Exfor04.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\bin\Debug\net8.0\Exfor04.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\bin\Debug\net8.0\Exfor04.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\refint\Exfor04.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\Exfor04.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor04\Exfor04\obj\Debug\net8.0\ref\Exfor04.dll
