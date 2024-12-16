@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\bin\Debug\net8.0\Exfor02.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\bin\Debug\net8.0\Exfor02.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\bin\Debug\net8.0\Exfor02.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\bin\Debug\net8.0\Exfor02.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\bin\Debug\net8.0\Exfor02.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\refint\Exfor02.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\Exfor02.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exfor02\Exfor02\obj\Debug\net8.0\ref\Exfor02.dll
