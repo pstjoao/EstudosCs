@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\bin\Debug\net8.0\Exclass02.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\bin\Debug\net8.0\Exclass02.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\bin\Debug\net8.0\Exclass02.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\bin\Debug\net8.0\Exclass02.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\bin\Debug\net8.0\Exclass02.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\refint\Exclass02.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\Exclass02.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclass02\Exclass02\obj\Debug\net8.0\ref\Exclass02.dll
