@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\bin\Debug\net8.0\Exclassefuncionario.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\bin\Debug\net8.0\Exclassefuncionario.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\bin\Debug\net8.0\Exclassefuncionario.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\bin\Debug\net8.0\Exclassefuncionario.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\bin\Debug\net8.0\Exclassefuncionario.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\refint\Exclassefuncionario.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\Exclassefuncionario.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassefuncionario\Exclassefuncionario\obj\Debug\net8.0\ref\Exclassefuncionario.dll
