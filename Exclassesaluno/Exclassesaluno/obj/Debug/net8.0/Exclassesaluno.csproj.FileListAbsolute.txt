@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\bin\Debug\net8.0\Exclassesaluno.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\bin\Debug\net8.0\Exclassesaluno.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\bin\Debug\net8.0\Exclassesaluno.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\bin\Debug\net8.0\Exclassesaluno.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\bin\Debug\net8.0\Exclassesaluno.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\refint\Exclassesaluno.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\Exclassesaluno.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclassesaluno\Exclassesaluno\obj\Debug\net8.0\ref\Exclassesaluno.dll

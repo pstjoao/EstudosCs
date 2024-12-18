@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exclassesaluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74A704D7-EA77-44DE-9051-578F31556DF2}|Exclassesaluno\\Exclassesaluno.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exclassesaluno\\exclassesaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A704D7-EA77-44DE-9051-578F31556DF2}|Exclassesaluno\\Exclassesaluno.csproj|solutionrelative:exclassesaluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A704D7-EA77-44DE-9051-578F31556DF2}|Exclassesaluno\\Exclassesaluno.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exclassesaluno\\exclassesaluno\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A704D7-EA77-44DE-9051-578F31556DF2}|Exclassesaluno\\Exclassesaluno.csproj|solutionrelative:exclassesaluno\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exclassesaluno\\Exclassesaluno\\Aluno.cs",
+              "RelativeDocumentMoniker": "Exclassesaluno\\Aluno.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exclassesaluno\\Exclassesaluno\\Aluno.cs",
+              "RelativeToolTip": "Exclassesaluno\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:12:21.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exclassesaluno\\Exclassesaluno\\Program.cs",
+              "RelativeDocumentMoniker": "Exclassesaluno\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\Exclassesaluno\\Exclassesaluno\\Program.cs",
+              "RelativeToolTip": "Exclassesaluno\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T21:11:15.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
