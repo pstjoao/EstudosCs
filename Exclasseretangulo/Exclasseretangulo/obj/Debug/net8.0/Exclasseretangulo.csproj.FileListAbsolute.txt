@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\bin\Debug\net8.0\Exclasseretangulo.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\bin\Debug\net8.0\Exclasseretangulo.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\bin\Debug\net8.0\Exclasseretangulo.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\bin\Debug\net8.0\Exclasseretangulo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\bin\Debug\net8.0\Exclasseretangulo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\refint\Exclasseretangulo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\Exclasseretangulo.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseretangulo\Exclasseretangulo\obj\Debug\net8.0\ref\Exclasseretangulo.dll
