@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\bin\Debug\net8.0\Exclasseprodutos.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\bin\Debug\net8.0\Exclasseprodutos.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\bin\Debug\net8.0\Exclasseprodutos.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\bin\Debug\net8.0\Exclasseprodutos.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\bin\Debug\net8.0\Exclasseprodutos.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\refint\Exclasseprodutos.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\Exclasseprodutos.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exclasseprodutos\Exclasseprodutos\obj\Debug\net8.0\ref\Exclasseprodutos.dll

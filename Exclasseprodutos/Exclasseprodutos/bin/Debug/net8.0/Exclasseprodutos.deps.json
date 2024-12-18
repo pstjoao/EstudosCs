@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exclasseprodutos/1.0.0": {
+        "runtime": {
+          "Exclasseprodutos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exclasseprodutos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
