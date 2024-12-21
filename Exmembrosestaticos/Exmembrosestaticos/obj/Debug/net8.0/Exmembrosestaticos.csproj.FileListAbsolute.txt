@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\bin\Debug\net8.0\Exmembrosestaticos.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\bin\Debug\net8.0\Exmembrosestaticos.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\bin\Debug\net8.0\Exmembrosestaticos.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\bin\Debug\net8.0\Exmembrosestaticos.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\bin\Debug\net8.0\Exmembrosestaticos.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\refint\Exmembrosestaticos.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\Exmembrosestaticos.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmembrosestaticos\Exmembrosestaticos\obj\Debug\net8.0\ref\Exmembrosestaticos.dll
