@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\bin\Debug\net8.0\ExercicioMaiorIdade.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\bin\Debug\net8.0\ExercicioMaiorIdade.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\bin\Debug\net8.0\ExercicioMaiorIdade.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\bin\Debug\net8.0\ExercicioMaiorIdade.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\bin\Debug\net8.0\ExercicioMaiorIdade.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\refint\ExercicioMaiorIdade.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ExercicioMaiorIdade.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioMaiorIdade\ExercicioMaiorIdade\obj\Debug\net8.0\ref\ExercicioMaiorIdade.dll

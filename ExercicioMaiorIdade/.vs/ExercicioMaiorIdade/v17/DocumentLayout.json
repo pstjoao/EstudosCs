@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioMaiorIdade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8838919-7122-48E0-AD17-F28E12B2BD33}|ExercicioMaiorIdade\\ExercicioMaiorIdade.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exerciciomaioridade\\exerciciomaioridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8838919-7122-48E0-AD17-F28E12B2BD33}|ExercicioMaiorIdade\\ExercicioMaiorIdade.csproj|solutionrelative:exerciciomaioridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8838919-7122-48E0-AD17-F28E12B2BD33}|ExercicioMaiorIdade\\ExercicioMaiorIdade.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exerciciomaioridade\\exerciciomaioridade\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8838919-7122-48E0-AD17-F28E12B2BD33}|ExercicioMaiorIdade\\ExercicioMaiorIdade.csproj|solutionrelative:exerciciomaioridade\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioMaiorIdade\\ExercicioMaiorIdade\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ExercicioMaiorIdade\\Pessoa.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioMaiorIdade\\ExercicioMaiorIdade\\Pessoa.cs",
+              "RelativeToolTip": "ExercicioMaiorIdade\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:43:28.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioMaiorIdade\\ExercicioMaiorIdade\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioMaiorIdade\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExercicioMaiorIdade\\ExercicioMaiorIdade\\Program.cs",
+              "RelativeToolTip": "ExercicioMaiorIdade\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:41:50.46Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
