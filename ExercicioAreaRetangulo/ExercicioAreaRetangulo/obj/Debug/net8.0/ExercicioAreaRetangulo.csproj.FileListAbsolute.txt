@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\bin\Debug\net8.0\ExercicioAreaRetangulo.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\bin\Debug\net8.0\ExercicioAreaRetangulo.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\bin\Debug\net8.0\ExercicioAreaRetangulo.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\bin\Debug\net8.0\ExercicioAreaRetangulo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\bin\Debug\net8.0\ExercicioAreaRetangulo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\refint\ExercicioAreaRetangulo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ExercicioAreaRetangulo.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExercicioAreaRetangulo\ExercicioAreaRetangulo\obj\Debug\net8.0\ref\ExercicioAreaRetangulo.dll
