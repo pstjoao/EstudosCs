@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\bin\Debug\net8.0\ExBanco.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\bin\Debug\net8.0\ExBanco.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\bin\Debug\net8.0\ExBanco.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\bin\Debug\net8.0\ExBanco.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\bin\Debug\net8.0\ExBanco.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\refint\ExBanco.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ExBanco.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExBanco\ExBanco\obj\Debug\net8.0\ref\ExBanco.dll
