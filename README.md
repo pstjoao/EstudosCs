@@ -1,2 +1,2 @@
-# ProjetosCs
- Projetos e estudos utilizando C#
+# EstudosCs
+ Estudos e exercícios utilizando C#
