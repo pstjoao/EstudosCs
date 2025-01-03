@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\bin\Debug\net8.0\Exvetores.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\bin\Debug\net8.0\Exvetores.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\bin\Debug\net8.0\Exvetores.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\bin\Debug\net8.0\Exvetores.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\bin\Debug\net8.0\Exvetores.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\refint\Exvetores.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\Exvetores.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exvetores\Exvetores\obj\Debug\net8.0\ref\Exvetores.dll
