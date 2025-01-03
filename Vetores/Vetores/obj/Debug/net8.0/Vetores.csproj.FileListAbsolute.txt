@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\bin\Debug\net8.0\Vetores.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\bin\Debug\net8.0\Vetores.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\bin\Debug\net8.0\Vetores.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\bin\Debug\net8.0\Vetores.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\bin\Debug\net8.0\Vetores.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\refint\Vetores.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\Vetores.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Vetores\Vetores\obj\Debug\net8.0\ref\Vetores.dll
