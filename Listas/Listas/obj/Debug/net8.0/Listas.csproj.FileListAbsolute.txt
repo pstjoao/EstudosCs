@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\bin\Debug\net8.0\Listas.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\bin\Debug\net8.0\Listas.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\bin\Debug\net8.0\Listas.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\bin\Debug\net8.0\Listas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\bin\Debug\net8.0\Listas.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\refint\Listas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\Listas.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Listas\Listas\obj\Debug\net8.0\ref\Listas.dll
