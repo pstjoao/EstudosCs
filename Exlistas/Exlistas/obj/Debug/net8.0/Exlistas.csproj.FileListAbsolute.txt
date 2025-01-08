@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\bin\Debug\net8.0\Exlistas.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\bin\Debug\net8.0\Exlistas.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\bin\Debug\net8.0\Exlistas.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\bin\Debug\net8.0\Exlistas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\bin\Debug\net8.0\Exlistas.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\refint\Exlistas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\Exlistas.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exlistas\Exlistas\obj\Debug\net8.0\ref\Exlistas.dll
