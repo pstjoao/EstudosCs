@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\bin\Debug\net8.0\Exmatriz.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\bin\Debug\net8.0\Exmatriz.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\bin\Debug\net8.0\Exmatriz.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\bin\Debug\net8.0\Exmatriz.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\bin\Debug\net8.0\Exmatriz.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\refint\Exmatriz.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\Exmatriz.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Exmatriz\Exmatriz\obj\Debug\net8.0\ref\Exmatriz.dll
