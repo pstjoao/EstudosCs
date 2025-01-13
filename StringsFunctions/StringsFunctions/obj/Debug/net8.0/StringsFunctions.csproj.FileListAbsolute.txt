@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\bin\Debug\net8.0\StringsFunctions.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\bin\Debug\net8.0\StringsFunctions.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\bin\Debug\net8.0\StringsFunctions.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\bin\Debug\net8.0\StringsFunctions.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\bin\Debug\net8.0\StringsFunctions.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\refint\StringsFunctions.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\StringsFunctions.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\StringsFunctions\StringsFunctions\obj\Debug\net8.0\ref\StringsFunctions.dll
