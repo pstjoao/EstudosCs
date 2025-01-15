@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\bin\Debug\net8.0\PropsDateTime.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\bin\Debug\net8.0\PropsDateTime.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\bin\Debug\net8.0\PropsDateTime.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\bin\Debug\net8.0\PropsDateTime.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\bin\Debug\net8.0\PropsDateTime.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\refint\PropsDateTime.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\PropsDateTime.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PropsDateTime\PropsDateTime\obj\Debug\net8.0\ref\PropsDateTime.dll
