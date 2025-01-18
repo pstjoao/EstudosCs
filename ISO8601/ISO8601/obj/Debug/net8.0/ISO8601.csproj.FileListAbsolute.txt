@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\bin\Debug\net8.0\ISO8601.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\bin\Debug\net8.0\ISO8601.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\bin\Debug\net8.0\ISO8601.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\bin\Debug\net8.0\ISO8601.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\bin\Debug\net8.0\ISO8601.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\refint\ISO8601.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ISO8601.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ISO8601\ISO8601\obj\Debug\net8.0\ref\ISO8601.dll
