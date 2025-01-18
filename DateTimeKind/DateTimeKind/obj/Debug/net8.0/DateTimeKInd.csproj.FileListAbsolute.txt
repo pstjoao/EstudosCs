@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\bin\Debug\net8.0\DateTimeKInd.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\bin\Debug\net8.0\DateTimeKInd.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\bin\Debug\net8.0\DateTimeKInd.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\bin\Debug\net8.0\DateTimeKInd.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\bin\Debug\net8.0\DateTimeKInd.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\refint\DateTimeKInd.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\DateTimeKInd.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DateTimeKInd\DateTimeKInd\obj\Debug\net8.0\ref\DateTimeKInd.dll
