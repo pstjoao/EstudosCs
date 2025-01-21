@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\bin\Debug\net8.0\Enum.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\bin\Debug\net8.0\Enum.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\bin\Debug\net8.0\Enum.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\bin\Debug\net8.0\Enum.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\refint\Enum.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\Enum\Enum\obj\Debug\net8.0\ref\Enum.dll
