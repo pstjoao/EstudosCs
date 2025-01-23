@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\excomposition\\excomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|solutionrelative:excomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\excomposition\\excomposition\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|solutionrelative:excomposition\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\excomposition\\excomposition\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|solutionrelative:excomposition\\entities\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\excomposition\\excomposition\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|solutionrelative:excomposition\\entities\\hourcontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\excomposition\\excomposition\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{699E86A3-8374-471A-84F3-CE8F93129977}|ExComposition\\ExComposition.csproj|solutionrelative:excomposition\\entities\\enums\\workerlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Program.cs",
+              "RelativeDocumentMoniker": "ExComposition\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Program.cs",
+              "RelativeToolTip": "ExComposition\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:15:28.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "ExComposition\\Entities\\Department.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\Department.cs",
+              "RelativeToolTip": "ExComposition\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:42:10.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\Worker.cs",
+              "RelativeDocumentMoniker": "ExComposition\\Entities\\Worker.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\Worker.cs",
+              "RelativeToolTip": "ExComposition\\Entities\\Worker.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:27:22.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HourContract.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\HourContract.cs",
+              "RelativeDocumentMoniker": "ExComposition\\Entities\\HourContract.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\HourContract.cs",
+              "RelativeToolTip": "ExComposition\\Entities\\HourContract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:30:56.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerLevel.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeDocumentMoniker": "ExComposition\\Entities\\Enums\\WorkerLevel.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExComposition\\ExComposition\\Entities\\Enums\\WorkerLevel.cs",
+              "RelativeToolTip": "ExComposition\\Entities\\Enums\\WorkerLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T12:29:11.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

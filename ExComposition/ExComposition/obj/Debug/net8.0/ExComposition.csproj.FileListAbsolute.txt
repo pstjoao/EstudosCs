@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\bin\Debug\net8.0\ExComposition.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\bin\Debug\net8.0\ExComposition.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\bin\Debug\net8.0\ExComposition.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\bin\Debug\net8.0\ExComposition.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\bin\Debug\net8.0\ExComposition.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\refint\ExComposition.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ExComposition.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExComposition\ExComposition\obj\Debug\net8.0\ref\ExComposition.dll
