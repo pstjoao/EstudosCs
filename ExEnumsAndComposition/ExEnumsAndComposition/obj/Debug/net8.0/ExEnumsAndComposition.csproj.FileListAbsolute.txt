@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\bin\Debug\net8.0\ExEnumsAndComposition.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\bin\Debug\net8.0\ExEnumsAndComposition.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\bin\Debug\net8.0\ExEnumsAndComposition.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\bin\Debug\net8.0\ExEnumsAndComposition.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\bin\Debug\net8.0\ExEnumsAndComposition.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\refint\ExEnumsAndComposition.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ExEnumsAndComposition.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExEnumsAndComposition\ExEnumsAndComposition\obj\Debug\net8.0\ref\ExEnumsAndComposition.dll

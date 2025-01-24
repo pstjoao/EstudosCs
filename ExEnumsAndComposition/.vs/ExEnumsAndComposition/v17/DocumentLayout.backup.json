@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exenumsandcomposition\\exenumsandcomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|solutionrelative:exenumsandcomposition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exenumsandcomposition\\exenumsandcomposition\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|solutionrelative:exenumsandcomposition\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exenumsandcomposition\\exenumsandcomposition\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|solutionrelative:exenumsandcomposition\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exenumsandcomposition\\exenumsandcomposition\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|solutionrelative:exenumsandcomposition\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exenumsandcomposition\\exenumsandcomposition\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|solutionrelative:exenumsandcomposition\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exenumsandcomposition\\exenumsandcomposition\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D32D3E0-5F24-48FA-A974-9BE0CF61684D}|ExEnumsAndComposition\\ExEnumsAndComposition.csproj|solutionrelative:exenumsandcomposition\\entities\\enums\\orderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Program.cs",
+              "RelativeDocumentMoniker": "ExEnumsAndComposition\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Program.cs",
+              "RelativeToolTip": "ExEnumsAndComposition\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:32:38.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ExEnumsAndComposition\\Entities\\Order.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Order.cs",
+              "RelativeToolTip": "ExEnumsAndComposition\\Entities\\Order.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwC8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:39:20.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ExEnumsAndComposition\\Entities\\OrderItem.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "ExEnumsAndComposition\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:36:59.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExEnumsAndComposition\\Entities\\Product.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Product.cs",
+              "RelativeToolTip": "ExEnumsAndComposition\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:34:44.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "ExEnumsAndComposition\\Entities\\Client.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Client.cs",
+              "RelativeToolTip": "ExEnumsAndComposition\\Entities\\Client.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA3wBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:33:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "ExEnumsAndComposition\\Entities\\Enums\\OrderStatus.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExEnumsAndComposition\\ExEnumsAndComposition\\Entities\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "ExEnumsAndComposition\\Entities\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T13:40:08.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
