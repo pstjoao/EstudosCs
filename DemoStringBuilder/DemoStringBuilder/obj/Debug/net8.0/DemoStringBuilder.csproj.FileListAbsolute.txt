@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\refint\DemoStringBuilder.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\ref\DemoStringBuilder.dll
