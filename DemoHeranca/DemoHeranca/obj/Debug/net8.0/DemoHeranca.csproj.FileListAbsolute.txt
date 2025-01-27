@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\bin\Debug\net8.0\DemoHeranca.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\bin\Debug\net8.0\DemoHeranca.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\bin\Debug\net8.0\DemoHeranca.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\bin\Debug\net8.0\DemoHeranca.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\bin\Debug\net8.0\DemoHeranca.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\refint\DemoHeranca.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\DemoHeranca.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DemoHeranca\DemoHeranca\obj\Debug\net8.0\ref\DemoHeranca.dll

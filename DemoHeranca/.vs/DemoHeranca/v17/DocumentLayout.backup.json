@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|solutionrelative:demoheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\demoheranca\\demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|solutionrelative:demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\demoheranca\\demoheranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|solutionrelative:demoheranca\\entities\\businessaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\demoheranca\\demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|solutionrelative:demoheranca\\entities\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\demoheranca\\demoheranca\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AF4DB71-A3F9-4016-878C-4BC24895C87D}|DemoHeranca\\DemoHeranca.csproj|solutionrelative:demoheranca\\entities\\savingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "SavingAccount.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DemoHeranca\\DemoHeranca\\Entities\\SavingAccount.cs",
+              "RelativeDocumentMoniker": "DemoHeranca\\Entities\\SavingAccount.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DemoHeranca\\DemoHeranca\\Entities\\SavingAccount.cs",
+              "RelativeToolTip": "DemoHeranca\\Entities\\SavingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T10:53:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BusinessAccount.cs",
               "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DemoHeranca\\DemoHeranca\\Entities\\BusinessAccount.cs",
               "RelativeDocumentMoniker": "DemoHeranca\\Entities\\BusinessAccount.cs",
@@ -39,13 +56,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Account.cs",
               "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DemoHeranca\\DemoHeranca\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "DemoHeranca\\Entities\\Account.cs",
               "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DemoHeranca\\DemoHeranca\\Entities\\Account.cs",
               "RelativeToolTip": "DemoHeranca\\Entities\\Account.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAQwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T00:14:20.847Z",
               "EditorCaption": ""
@@ -58,7 +75,7 @@
               "RelativeDocumentMoniker": "DemoHeranca\\Program.cs",
               "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DemoHeranca\\DemoHeranca\\Program.cs",
               "RelativeToolTip": "DemoHeranca\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAADAyvCNKNAwwCIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T00:13:50.719Z",
               "EditorCaption": ""
