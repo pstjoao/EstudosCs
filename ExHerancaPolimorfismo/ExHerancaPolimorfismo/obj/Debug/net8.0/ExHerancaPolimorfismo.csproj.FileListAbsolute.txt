@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net8.0\ExHerancaPolimorfismo.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net8.0\ExHerancaPolimorfismo.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net8.0\ExHerancaPolimorfismo.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net8.0\ExHerancaPolimorfismo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\bin\Debug\net8.0\ExHerancaPolimorfismo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\refint\ExHerancaPolimorfismo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ExHerancaPolimorfismo.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHerancaPolimorfismo\ExHerancaPolimorfismo\obj\Debug\net8.0\ref\ExHerancaPolimorfismo.dll

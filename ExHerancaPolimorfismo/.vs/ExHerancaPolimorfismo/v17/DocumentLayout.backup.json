@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exherancapolimorfismo\\exherancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|solutionrelative:exherancapolimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exherancapolimorfismo\\exherancapolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|solutionrelative:exherancapolimorfismo\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exherancapolimorfismo\\exherancapolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|solutionrelative:exherancapolimorfismo\\entities\\usedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exherancapolimorfismo\\exherancapolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89A8A157-5C68-4377-A533-6F5AE0F7FCC4}|ExHerancaPolimorfismo\\ExHerancaPolimorfismo.csproj|solutionrelative:exherancapolimorfismo\\entities\\importedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "ExHerancaPolimorfismo\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Program.cs",
+              "RelativeToolTip": "ExHerancaPolimorfismo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:48:43.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ExHerancaPolimorfismo\\Entities\\Product.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Entities\\Product.cs",
+              "RelativeToolTip": "ExHerancaPolimorfismo\\Entities\\Product.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:49:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportedProduct.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeDocumentMoniker": "ExHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "RelativeToolTip": "ExHerancaPolimorfismo\\Entities\\ImportedProduct.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:51:00.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsedProduct.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeDocumentMoniker": "ExHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHerancaPolimorfismo\\ExHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "RelativeToolTip": "ExHerancaPolimorfismo\\Entities\\UsedProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T13:55:16.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
