@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\bin\Debug\net8.0\ExHeranca.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\refint\ExHeranca.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ExHeranca.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExHeranca\ExHeranca\obj\Debug\net8.0\ref\ExHeranca.dll

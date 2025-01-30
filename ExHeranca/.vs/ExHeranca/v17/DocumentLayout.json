@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C055AF5-A782-4EFE-9BBD-630BFB5E560F}|ExHeranca\\ExHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exheranca\\exheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C055AF5-A782-4EFE-9BBD-630BFB5E560F}|ExHeranca\\ExHeranca.csproj|solutionrelative:exheranca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C055AF5-A782-4EFE-9BBD-630BFB5E560F}|ExHeranca\\ExHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exheranca\\exheranca\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C055AF5-A782-4EFE-9BBD-630BFB5E560F}|ExHeranca\\ExHeranca.csproj|solutionrelative:exheranca\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C055AF5-A782-4EFE-9BBD-630BFB5E560F}|ExHeranca\\ExHeranca.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exheranca\\exheranca\\entities\\outsorcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C055AF5-A782-4EFE-9BBD-630BFB5E560F}|ExHeranca\\ExHeranca.csproj|solutionrelative:exheranca\\entities\\outsorcedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\ExHeranca\\Program.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\ExHeranca\\Program.cs",
+              "RelativeToolTip": "ExHeranca\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:50:17.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\ExHeranca\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\Entities\\Employee.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\ExHeranca\\Entities\\Employee.cs",
+              "RelativeToolTip": "ExHeranca\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:51:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutsorcedEmployee.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\ExHeranca\\Entities\\OutsorcedEmployee.cs",
+              "RelativeDocumentMoniker": "ExHeranca\\Entities\\OutsorcedEmployee.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExHeranca\\ExHeranca\\Entities\\OutsorcedEmployee.cs",
+              "RelativeToolTip": "ExHeranca\\Entities\\OutsorcedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:51:27.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
