@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\bin\Debug\net8.0\ExcecoesPersonalizadas.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\refint\ExcecoesPersonalizadas.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ExcecoesPersonalizadas.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExcecoesPersonalizadas\ExcecoesPersonalizadas\obj\Debug\net8.0\ref\ExcecoesPersonalizadas.dll
