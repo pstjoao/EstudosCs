@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\bin\Debug\net8.0\FileAndFileInfo.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\bin\Debug\net8.0\FileAndFileInfo.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\bin\Debug\net8.0\FileAndFileInfo.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\bin\Debug\net8.0\FileAndFileInfo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\bin\Debug\net8.0\FileAndFileInfo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\refint\FileAndFileInfo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\FileAndFileInfo.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\FileAndFileInfo\FileAndFileInfo\obj\Debug\net8.0\ref\FileAndFileInfo.dll
