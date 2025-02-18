@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DirectoryAndDirectoryInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{457CCEFF-45F3-4C69-8AE5-BC7D161EFC6C}|DirectoryAndDirectoryInfo\\DirectoryAndDirectoryInfo.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\directoryanddirectoryinfo\\directoryanddirectoryinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457CCEFF-45F3-4C69-8AE5-BC7D161EFC6C}|DirectoryAndDirectoryInfo\\DirectoryAndDirectoryInfo.csproj|solutionrelative:directoryanddirectoryinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DirectoryAndDirectoryInfo\\DirectoryAndDirectoryInfo\\Program.cs",
+              "RelativeDocumentMoniker": "DirectoryAndDirectoryInfo\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\DirectoryAndDirectoryInfo\\DirectoryAndDirectoryInfo\\Program.cs",
+              "RelativeToolTip": "DirectoryAndDirectoryInfo\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T20:55:16.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

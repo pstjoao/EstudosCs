@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net8.0\DirectoryAndDirectoryInfo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\refint\DirectoryAndDirectoryInfo.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net8.0\ref\DirectoryAndDirectoryInfo.dll
