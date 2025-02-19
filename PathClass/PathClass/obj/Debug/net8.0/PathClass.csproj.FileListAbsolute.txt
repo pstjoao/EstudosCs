@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\bin\Debug\net8.0\PathClass.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\bin\Debug\net8.0\PathClass.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\bin\Debug\net8.0\PathClass.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\bin\Debug\net8.0\PathClass.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\bin\Debug\net8.0\PathClass.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\refint\PathClass.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\PathClass.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\PathClass\PathClass\obj\Debug\net8.0\ref\PathClass.dll
