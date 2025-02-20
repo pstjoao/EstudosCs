@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithoutinterface\\exwithoutinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|solutionrelative:exwithoutinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithoutinterface\\exwithoutinterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|solutionrelative:exwithoutinterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithoutinterface\\exwithoutinterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|solutionrelative:exwithoutinterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithoutinterface\\exwithoutinterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|solutionrelative:exwithoutinterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithoutinterface\\exwithoutinterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|solutionrelative:exwithoutinterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithoutinterface\\exwithoutinterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA3755F-268C-475D-ABA4-C34DE0F13257}|ExWithoutInterface\\ExWithoutInterface.csproj|solutionrelative:exwithoutinterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "ExWithoutInterface\\Services\\RentalService.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "ExWithoutInterface\\Services\\RentalService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA5wCAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:53:23.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "ExWithoutInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "ExWithoutInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:51:25.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "ExWithoutInterface\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "ExWithoutInterface\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:50:10.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "ExWithoutInterface\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "ExWithoutInterface\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:49:25.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ExWithoutInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "ExWithoutInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:48:36.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ExWithoutInterface\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithoutInterface\\ExWithoutInterface\\Program.cs",
+              "RelativeToolTip": "ExWithoutInterface\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T21:47:43.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
