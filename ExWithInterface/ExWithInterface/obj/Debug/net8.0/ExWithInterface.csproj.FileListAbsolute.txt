@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\bin\Debug\net8.0\ExWithInterface.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\bin\Debug\net8.0\ExWithInterface.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\bin\Debug\net8.0\ExWithInterface.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\bin\Debug\net8.0\ExWithInterface.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\bin\Debug\net8.0\ExWithInterface.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\refint\ExWithInterface.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ExWithInterface.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\ExWithInterface\ExWithInterface\obj\Debug\net8.0\ref\ExWithInterface.dll

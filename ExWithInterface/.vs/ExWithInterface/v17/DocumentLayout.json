@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|d:\\programa\u00E7\u00E3o\\c#\\projetoscs\\projetoscsversionado\\exwithinterface\\exwithinterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54F8D2DF-3676-4662-B343-FAC943B40F65}|ExWithInterface\\ExWithInterface.csproj|solutionrelative:exwithinterface\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Program.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Program.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Program.cs",
+              "RelativeToolTip": "ExWithInterface\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:24:38.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Entities\\Vehicle.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "ExWithInterface\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:26:11.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Entities\\Invoice.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Entities\\Invoice.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Entities\\Invoice.cs",
+              "RelativeToolTip": "ExWithInterface\\Entities\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:25:54.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRental.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Entities\\CarRental.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Entities\\CarRental.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Entities\\CarRental.cs",
+              "RelativeToolTip": "ExWithInterface\\Entities\\CarRental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:25:38.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RentalService.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Services\\RentalService.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Services\\RentalService.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Services\\RentalService.cs",
+              "RelativeToolTip": "ExWithInterface\\Services\\RentalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:26:34.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Services\\ITaxService.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Services\\ITaxService.cs",
+              "RelativeToolTip": "ExWithInterface\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:50:31.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrazilTaxService.cs",
+              "DocumentMoniker": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Services\\BrazilTaxService.cs",
+              "RelativeDocumentMoniker": "ExWithInterface\\Services\\BrazilTaxService.cs",
+              "ToolTip": "D:\\programa\u00E7\u00E3o\\c#\\ProjetosCs\\ProjetosCsVersionado\\ExWithInterface\\ExWithInterface\\Services\\BrazilTaxService.cs",
+              "RelativeToolTip": "ExWithInterface\\Services\\BrazilTaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T19:26:54.624Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
