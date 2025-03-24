@@ -1,0 +1,15 @@
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.exe
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.deps.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.runtimeconfig.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net8.0\GetHashCodeAndEquals.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.AssemblyInfoInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.AssemblyInfo.cs
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.sourcelink.json
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\refint\GetHashCodeAndEquals.dll
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.pdb
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\GetHashCodeAndEquals.genruntimeconfig.cache
+D:\programação\c#\ProjetosCs\ProjetosCsVersionado\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net8.0\ref\GetHashCodeAndEquals.dll
